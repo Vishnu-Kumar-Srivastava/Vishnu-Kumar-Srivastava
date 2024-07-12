@@ -1,5 +1,10 @@
-<h1 align="center">Hi👋, I'm Vishnu Kumar Srivastava.</h1>
-<h2 align="center">A Full Stack Developer and Competitive Coder.</h2>
+<h1 align="center"> Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I'm Vishnu Kumar Srivastava💙 </h1>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?&color=2484FF&size=32&lines=Passionate+Developer💙;Innovative+Thinker⭐;Lover+Of+Coding+Problems🎯;Hardest+Worker+in+the+room👨🏻‍💻;Constantly+Learning⚡&font=Pacifico&center=true&height=50&width=600&vCenter=true)](https://github.com/Heir-of-God)
+
+</div>
 
 
 # 💫 About Me:
@@ -93,26 +98,37 @@
 
 
 
-# 📊 GitHub Stats:
+## 📊 Github Statistics
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vishnu-Kumar-Srivastava&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vishnu-Kumar-Srivastava&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  
-![](https://github-readme-streak-stats.herokuapp.com/?user=Vishnu-Kumar-Srivastava-666&theme=dark&hide_border=false&margin-w=16)<br/>
+
+![](https://visitcount.itsvg.in/api?id=Vishnu-Kumar-Srivastava&label=Profile%20Visitors&color=0&icon=7&pretty=true)
+
+<a href="https://github.com/Vishnu-Kumar-Srivastava?tab=repositories">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Vishnu-Kumar-Srivastava&theme=transparent&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&border_color=0C77FF" width="45%" alt="@Vishnu-Kumar-Srivastava's github-readme-stats">
+</a>
+
+<a href="https://github.com/Vishnu-Kumar-Srivastava?tab=stars">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Vishnu-Kumar-Srivastava&theme=transparent&date_format=M%20j%5B%2C%20Y%5D&border=0C77FF" width="45%"    alt="@Vishnu-Kumar-Srivastava's github-readme-streak-stats">
+</a>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnu-Kumar-Srivastava&theme=transparent&layout=compact&exclude_repo=Data-Science-Capstone&border_color=0C77FF" width="30%"> 
+
+![](https://github-profile-trophy.vercel.app/?username=Vishnu-Kumar-Srivastava&theme=algolia&no-bg=true&no-frame=true)
+
 </div>
 
-##
 
-  <h2> ✍️ Random Dev Quote</h1>
-  <div align="center">
+## ✍️ Random Dev Quote
 
+<div align="center">
 
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+Oh, and I really love wise quotes that make you think. So I'm leaving a random quote here)
 
-  </div>
+![](https://quotes-github-readme.vercel.app/api?theme=algolia&type=horizontal)
+</div>
 
 ## 🌐 Socials:
-
 <div align="left">
   <a href="mailto:vishnuofficial1912@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
@@ -126,14 +142,9 @@
 </div>
 
 
-###
 
-<h2>Profile Views</h2>
 
-<div align="center">
-  
-  <img src="https://profile-counter.glitch.me/Vishnu-Kumar-Srivastava/count.svg?"  />
-</div>
+
 
 ###
 
