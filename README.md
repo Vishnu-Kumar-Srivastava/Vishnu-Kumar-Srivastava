@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I'm Vishnu Kumar Srivastava💙 </h1>
+<h1 align="center"> Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I'm Vishnu Kumar Srivastava👨🏻‍💻</h1>
 
 <div align="center">
 
@@ -45,11 +45,11 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/oracle/4479A1" height="30" alt="oracle logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="30" alt="vscode logo" />
-  <img width="12" />
+<!--   <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="30" alt="vscode logo" />
+  <img width="12" /> -->
   <img src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-thumbnail.png" height="30" alt="C++ logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="30" alt="vscode logo" />
+<!--   <img width="12" />
+  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="30" alt="vscode logo" /> -->
 </div>
 <br>
 <div align="center">
@@ -148,13 +148,13 @@ Oh, and I really love wise quotes that make you think. So I'm leaving a random q
 
 ###
 
-<!--<img src="https://github.com/Mayur-666/Mayur-666/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Profile Eater :)"  /> -->
-![Snake animation](https://github.com/Mayur-666/Mayur-666/blob/output/github-contribution-grid-snake-dark.svg)
-
-
-
-###
-
+<div align="left" width="10">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vishnu-Kumar-Srivastava/Vishnu-Kumar-Srivastava/output/github-contribution-grid-snake-dark.svg">
+   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vishnu-Kumar-Srivastava/Vishnu-Kumar-Srivastava/output/github-contribution-grid-snake-dark.svg">
+ <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Vishnu-Kumar-Srivastava/Vishnu-Kumar-Srivastava/output/github-contribution-grid-snake-dark.svg">
+</picture>
+</div>
   
 <img align="right" height="200" src="https://media1.tenor.com/m/T13mfKNUXzsAAAAC/zeke-j%C3%A4ger-i-see-zeke-i-see.gif"  />
 
