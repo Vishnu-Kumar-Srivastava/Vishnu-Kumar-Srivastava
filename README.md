@@ -8,7 +8,7 @@
 
 
 # 💫 About Me:
-- 🔭 I’m currently working as an SDE Intern at GoSky.
+- 🔭 I’m currently working as an SDE Intern at Arvat.
 - 👯 I’m looking to collaborate on Full Stack Projects.
 - 💬 Ask me about Go, ReactJS, Django, AWS, Docker, and more.
 
