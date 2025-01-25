@@ -8,7 +8,7 @@
 
 
 # 💫 About Me:
-- 🔭 I’m currently working as a Data Engineer at BlackRock.
+- 🔭 I’m currently working as a Data Engineer intern at BlackRock.
 - 👯 I’m looking to collaborate on Full Stack Projects.
 - 💬 Ask me about Go, ReactJS, Django, AWS, Docker, and more.
 
