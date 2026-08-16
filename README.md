@@ -1,10 +1,10 @@
 <h1 align="center"> Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I'm Vishnu Kumar Srivastava👨🏻‍💻</h1>
 
-<div align="center">
+<!-- <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?&color=2484FF&size=32&lines=Passionate+Developer💙;Innovative+Thinker⭐;Lover+Of+Coding+Problems🎯;Hardest+Worker+in+the+room👨🏻‍💻;Constantly+Learning⚡&font=Pacifico&center=true&height=50&width=600&vCenter=true)](https://github.com/Heir-of-God)
 
-</div>
+</div> -->
 
 
 # 💫 About Me:
